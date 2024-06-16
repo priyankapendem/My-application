@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1426605_hello_wo_my_custom_table">stateIN3,4,7^EQ<item display_value="3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="3,4,7"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Create a record for my custom table</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New Model</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1426605_hello_wo_my_custom_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 17:32:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cf2d0fcec332021077293fac05013167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Model</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hello World" source="x_1426605_hello_wo">04b13475c3bac61077293fac0501311f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">04b13475c3bac61077293fac0501311f</sys_scope>
+        <sys_update_name>sys_app_module_cf2d0fcec332021077293fac05013167</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 17:32:35</sys_updated_on>
+        <timeline_page/>
+        <title>Create New Model</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="68ba8b0ec332021077293fac0501310b" extends="task" label="My Custom Table" max_length="40" name="x_1426605_hello_wo_my_custom_table" type="collection">
+        <element label="New Field 1" max_length="40" name="new_field_1" type="integer"/>
+        <element label="New Field 2" max_length="40" name="new_field_2" type="integer"/>
+        <element label="Created by" max_length="40" name="created_by" type="string"/>
+    </element>
+</database>
